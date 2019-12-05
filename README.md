@@ -59,6 +59,7 @@ Once you have a complete database, do the following:
 
 
 Bonus (Optional)
+
 As you examine the data, you are overcome with a creeping suspicion that the dataset is fake. You surmise that your boss handed you spurious data in order to test the data engineering skills of a new employee. To confirm your hunch, you decide to take the following steps to generate a visualization of the data, with which you will confront your boss:
 
 
@@ -86,4 +87,5 @@ Create a bar chart of average salary by title.
 
 
 Epilogue
+
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
